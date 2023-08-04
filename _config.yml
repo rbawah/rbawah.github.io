@@ -25,10 +25,10 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-  Github: "https://github.com/rbawah"
-  My Social: 
-    - YouTube: "https://www.youtube.com/@rashidbawah6605"
-    - X (Twitter): "https://twitter.com/RashidBawah"
+  # Github: "https://github.com/rbawah"
+  # My Social: 
+  #   - YouTube: "https://www.youtube.com/@rashidbawah6605"
+  #   - X (Twitter): "https://twitter.com/RashidBawah"
 
 
 ################
