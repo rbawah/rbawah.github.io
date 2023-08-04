@@ -4,13 +4,13 @@ title: About me
 subtitle: You code can be as good as you want to make it...
 ---
 
-My name is Rashid Bawah. I have the following qualities:
+My name is Rashid Bawah:
 
 - I am obsessed with security first development.
 - I can't seem to pick between OOP and functional programming.
 - I use whatever tool does best at solving my problems.
 
-What else do you need?
+What else do you need to know?
 
 ### My story
 
