@@ -22,6 +22,7 @@ author: Rashid Bawah
 navbar-links:
   About Me: "aboutme"
   Blog: "blog"
+  Tutorials: "tutorials"
   Gallery: "gallery"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
